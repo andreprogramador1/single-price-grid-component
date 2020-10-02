@@ -94,6 +94,7 @@ body {
   font-weight: bold;
   align-self: center;
   box-shadow: 0 6px 6px rgba(0, 0, 0, 0.2);
+  outline: 0;
 }
 
 .content__down1 button:hover {
